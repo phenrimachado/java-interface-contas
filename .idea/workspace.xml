@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="067f7547-0ba4-404c-843a-0a6eefd1f25a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y4sdSub6J2RfKhBFFLo28E4yvF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Application.TestaContas">
+    <configuration name="TestaContas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.caelum.contas.main.TestaContas" />
+      <module name="TesteJar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.caelum.contas.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestaEntrada (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.caelum.javaio.TestaEntrada" />
+      <module name="TesteJar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.caelum.javaio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestaMetodoCarrega" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.caelum.javaio.TestaMetodoCarrega" />
+      <module name="TesteJar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.caelum.javaio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestaSaida" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.caelum.javaio.TestaSaida" />
+      <module name="TesteJar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.caelum.javaio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.caelum.contas.modelo.Teste" />
+      <module name="TesteJar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.caelum.contas.modelo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestaContas" />
+        <item itemvalue="Application.TestaMetodoCarrega" />
+        <item itemvalue="Application.TestaSaida" />
+        <item itemvalue="Application.TestaEntrada (1)" />
+        <item itemvalue="Application.Teste" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="067f7547-0ba4-404c-843a-0a6eefd1f25a" name="Default Changelist" comment="" />
+      <created>1582213287507</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582213287507</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="441" y="233" width="1110" height="677" key="#Project_Structure" timestamp="1582749477948">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="1754" y="211" width="1110" height="677" key="#Project_Structure/1366.0.1920.1080/0.27.1366.741@1366.0.1920.1080" timestamp="1582215286036" />
+    <state x="441" y="233" key="#Project_Structure/67.27.1853.1053/1920.0.1366.768@67.27.1853.1053" timestamp="1582749477948" />
+    <state x="2167" y="141" width="343" height="430" key="#com.intellij.ide.util.MemberChooser" timestamp="1582299934102">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="570" y="191" width="343" height="430" key="#com.intellij.ide.util.MemberChooser/1366.0.1920.1080/0.27.1366.741@0.27.1366.741" timestamp="1582298274520" />
+    <state x="2167" y="239" width="374" height="626" key="#com.intellij.ide.util.MemberChooser/1366.0.1920.1080/0.27.1366.741@1366.0.1920.1080" timestamp="1582221919875" />
+    <state x="2167" y="141" key="#com.intellij.ide.util.MemberChooser/1366.0.1920.1080/67.27.1299.741@1366.0.1920.1080" timestamp="1582299934102" />
+    <state x="2137" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1582213873963">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2137" y="310" width="424" height="484" key="FileChooserDialogImpl/1366.0.1920.1080/0.27.1366.741@1366.0.1920.1080" timestamp="1582213873963" />
+    <state width="1807" height="318" key="GridCell.Tab.0.bottom" timestamp="1582750074718">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1320" height="176" key="GridCell.Tab.0.bottom/1366.0.1920.1080/0.27.1366.741@0.27.1366.741" timestamp="1582298791193" />
+    <state width="1807" height="424" key="GridCell.Tab.0.bottom/1366.0.1920.1080/0.27.1366.741@1366.0.1920.1080" timestamp="1582232177351" />
+    <state width="1320" height="213" key="GridCell.Tab.0.bottom/1366.0.1920.1080/67.27.1299.741@1366.0.1920.1080" timestamp="1582309999752" />
+    <state width="1320" height="212" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1366.768@1920.0.1366.768" timestamp="1582737624289" />
+    <state width="1807" height="318" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1366.768@67.27.1853.1053" timestamp="1582750074718" />
+    <state width="1807" height="318" key="GridCell.Tab.0.center" timestamp="1582750074718">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1320" height="176" key="GridCell.Tab.0.center/1366.0.1920.1080/0.27.1366.741@0.27.1366.741" timestamp="1582298791193" />
+    <state width="1807" height="424" key="GridCell.Tab.0.center/1366.0.1920.1080/0.27.1366.741@1366.0.1920.1080" timestamp="1582232177351" />
+    <state width="1320" height="213" key="GridCell.Tab.0.center/1366.0.1920.1080/67.27.1299.741@1366.0.1920.1080" timestamp="1582309999752" />
+    <state width="1320" height="212" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1366.768@1920.0.1366.768" timestamp="1582737624289" />
+    <state width="1807" height="318" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1366.768@67.27.1853.1053" timestamp="1582750074718" />
+    <state width="1807" height="318" key="GridCell.Tab.0.left" timestamp="1582750074718">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1320" height="176" key="GridCell.Tab.0.left/1366.0.1920.1080/0.27.1366.741@0.27.1366.741" timestamp="1582298791193" />
+    <state width="1807" height="424" key="GridCell.Tab.0.left/1366.0.1920.1080/0.27.1366.741@1366.0.1920.1080" timestamp="1582232177351" />
+    <state width="1320" height="213" key="GridCell.Tab.0.left/1366.0.1920.1080/67.27.1299.741@1366.0.1920.1080" timestamp="1582309999751" />
+    <state width="1320" height="212" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1366.768@1920.0.1366.768" timestamp="1582737624289" />
+    <state width="1807" height="318" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1366.768@67.27.1853.1053" timestamp="1582750074718" />
+    <state width="1807" height="318" key="GridCell.Tab.0.right" timestamp="1582750074718">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1320" height="176" key="GridCell.Tab.0.right/1366.0.1920.1080/0.27.1366.741@0.27.1366.741" timestamp="1582298791193" />
+    <state width="1807" height="424" key="GridCell.Tab.0.right/1366.0.1920.1080/0.27.1366.741@1366.0.1920.1080" timestamp="1582232177351" />
+    <state width="1320" height="213" key="GridCell.Tab.0.right/1366.0.1920.1080/67.27.1299.741@1366.0.1920.1080" timestamp="1582309999752" />
+    <state width="1320" height="212" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1366.768@1920.0.1366.768" timestamp="1582737624289" />
+    <state width="1807" height="318" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1366.768@67.27.1853.1053" timestamp="1582750074718" />
+    <state width="1807" height="344" key="GridCell.Tab.1.bottom" timestamp="1582749881620">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.bottom/67.27.1853.1053/1920.0.1366.768@67.27.1853.1053" timestamp="1582749881620" />
+    <state width="1807" height="344" key="GridCell.Tab.1.center" timestamp="1582749881620">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.center/67.27.1853.1053/1920.0.1366.768@67.27.1853.1053" timestamp="1582749881620" />
+    <state width="1807" height="344" key="GridCell.Tab.1.left" timestamp="1582749881620">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.left/67.27.1853.1053/1920.0.1366.768@67.27.1853.1053" timestamp="1582749881620" />
+    <state width="1807" height="344" key="GridCell.Tab.1.right" timestamp="1582749881620">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.right/67.27.1853.1053/1920.0.1366.768@67.27.1853.1053" timestamp="1582749881620" />
+    <state x="277" y="38" width="900" height="730" key="SettingsEditor" timestamp="1582226857031">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="277" y="38" width="900" height="730" key="SettingsEditor/1366.0.1920.1080/0.27.1366.741@0.27.1366.741" timestamp="1582226857031" />
+    <state x="1755" y="131" width="1024" height="845" key="SettingsEditor/1366.0.1920.1080/0.27.1366.741@1366.0.1920.1080" timestamp="1582213700775" />
+    <state x="1673" y="27" width="999" height="726" maximized="true" key="dock-window-1" timestamp="1582229212059">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1673" y="27" width="999" height="726" maximized="true" key="dock-window-1/1366.0.1920.1080/0.27.1366.741@0.27.1366.741" timestamp="1582229212059" />
+    <state x="1920" y="0" width="710" height="768" key="find.popup" timestamp="1582732141368">
+      <screen x="1920" y="0" width="1366" height="768" />
+    </state>
+    <state x="0" y="27" width="710" height="741" key="find.popup/1366.0.1920.1080/0.27.1366.741@0.27.1366.741" timestamp="1582298199322" />
+    <state x="1920" y="0" width="710" height="768" key="find.popup/67.27.1853.1053/1920.0.1366.768@1920.0.1366.768" timestamp="1582732141368" />
+    <state x="1920" y="0" width="1356" height="768" key="new project wizard" timestamp="1582737621496">
+      <screen x="1920" y="0" width="1366" height="768" />
+    </state>
+    <state x="1920" y="0" width="1356" height="768" key="new project wizard/67.27.1853.1053/1920.0.1366.768@1920.0.1366.768" timestamp="1582737621496" />
+    <state x="2412" y="231" key="run.anything.popup" timestamp="1582733591249">
+      <screen x="1920" y="0" width="1366" height="768" />
+    </state>
+    <state x="2058" y="325" key="run.anything.popup/1366.0.1920.1080/0.27.1366.741@1366.0.1920.1080" timestamp="1582213907519" />
+    <state x="2412" y="231" key="run.anything.popup/67.27.1853.1053/1920.0.1366.768@1920.0.1366.768" timestamp="1582733591249" />
+    <state x="346" y="89" key="search.everywhere.popup" timestamp="1582298182182">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="346" y="89" key="search.everywhere.popup/1366.0.1920.1080/0.27.1366.741@0.27.1366.741" timestamp="1582298182182" />
+  </component>
+</project>
